@@ -4,10 +4,10 @@
 When we scraped the data, then we need do some EDA to seek for trade signals which could make money. 
 This is the big piont
 
-### get data
+### 1.Get data
 
-### filter stock
+### 2.Filter stock
 
-### plot candel figure
+### 3.Plot candel figure
 
-### send messages to email
+### 4.Send messages to email
